@@ -1,0 +1,8 @@
+.vscode/
+.cache/
+.xmake/
+build/
+logs/
+conan_installed/
+CMakeUserPresets.json
+CMakePresets.json
